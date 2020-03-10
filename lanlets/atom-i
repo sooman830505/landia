@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget https://atom.io/download/deb
+pkexec gdebi-gtk --auto-close deb
+rm deb
