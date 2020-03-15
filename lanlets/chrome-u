@@ -1,3 +1,4 @@
 #!/bin/bash
 
 sudo dpkg -P google-chrome-stable
+rm chrome-k
