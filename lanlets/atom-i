@@ -3,3 +3,4 @@
 wget https://atom.io/download/deb
 sudo gdebi -n -q deb
 rm deb
+touch atom-k
