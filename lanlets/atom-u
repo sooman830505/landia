@@ -1,3 +1,2 @@
 #!/bin/bash
-
-pkexec dpkg -P atom
+sudo dpkg -P atom
